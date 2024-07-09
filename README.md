@@ -1,10 +1,84 @@
 # 💫 About Me:
 Greetings! 👋<br/><br/>
-Welcome to my GitHub profile! I'm a dedicated back-end developer hailing from India, driven by a passion for crafting robust and efficient software solutions. Recently, I proudly completed my Bachelor's degree in BCA from VNSGU, Gujarat, in the year 2024.
 
-Currently, I'm diving into the world of Data Structures and Algorithms (DSA), seeking to enhance my problem-solving skills and deepen my understanding of fundamental computer science principles. Alongside my academic pursuits, I'm actively engaged in a project focused on developing an innovative application/web platform for designing flooring tiles.
 
-Thank you for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or would like to collaborate on exciting projects.
+## Contact Information
+- Email: [tirth063.patel@gmail.com](mailto:tirth063.patel@gmail.com)
+- LinkedIn: [linkedin.com/in/tirth-patel](https://www.linkedin.com/in/tirth-patel-420817263/)
+- GitHub: [github.com/tirth063](https://github.com/tirth063)
+
+## Education
+
+### Bachelor of Computer Application (B.C.A.)
+**Veer Narmad South Gujarat University, Surat**
+- GPA: 8.15
+- Duration: 2021 – 2024
+
+### Higher Secondary (12th - Commerce) and Secondary School (10th)
+**Gajera Vidyabhavan, Katargam**
+- Board: Gujarat Board
+- Duration: 2019 – 2021
+
+## Specialization
+- Flutter App Development
+- Basic Web Development
+- Flutter Certification Score: 98/100
+
+## Technical Skills
+
+### Programming Languages
+Java, Dart, HTML, CSS, Python
+
+### Frameworks/Libraries
+Flutter, Spring, Spring Boot, Bootstrap, Sass
+
+### Database
+MySQL, Firebase
+
+### Developer Tools
+Git, GitHub, VS Code, Postman, Docker
+
+### Other Skills
+Problem-solving, Data Structures and Algorithms (DSA)
+
+## Projects
+
+### Vortex Booking Application (Flutter App)
+A real-time booking application for computer cyber cafes, designed to streamline the reservation process and enhance user experience.
+
+**Key Features:**
+- Developed using Flutter framework with Firebase backend for real-time data synchronization
+- Implemented a user-friendly interface for seamless booking experience
+- Integrated real-time availability tracking system for accurate slot management
+- Incorporated push notifications for booking confirmations and reminders
+- Ensured cross-platform compatibility for both Android and iOS devices
+
+**Technologies Used:** Flutter, Dart, Firebase, REST APIs
+
+### Food Website (PHP)
+A comprehensive food ordering platform with separate modules for administrators and users, focusing on efficient content management and user authentication.
+
+**Key Features:**
+- Designed and implemented a secure authentication system for user and admin access
+- Developed a robust Content Management System (CMS) for easy menu and order management
+- Implemented CRUD operations using MySQL for efficient data handling
+- Created an advanced search functionality to enhance user experience
+- Integrated responsive design principles for optimal viewing across devices
+
+**Technologies Used:** PHP, MySQL, HTML, CSS, JavaScript
+
+### Tiles Showcase Website (PHP)
+A dynamic website designed to showcase and manage a diverse tile product line, emphasizing performance and user experience.
+
+**Key Features:**
+- Optimized media content loading for improved client-side performance and faster page loads
+- Implemented real-time product management capabilities for showcasing, managing, and delisting products
+- Developed advanced search and filtering options to enhance customer experience in finding desired tiles
+- Integrated a responsive design to ensure seamless browsing across various devices
+- Implemented SEO best practices to improve website visibility in search engine results
+
+**Technologies Used:** PHP, MySQL, HTML, CSS, JavaScript, AJAX
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tirth063) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth-patel-420817263) 
