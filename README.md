@@ -42,6 +42,20 @@ Git, GitHub, VS Code, Postman, Docker
 Problem-solving, Data Structures and Algorithms (DSA)
 
 ## Projects
+### Bill Generation System (Spring Boot)
+*  Developed a system to process customer orders, ensuring a single transaction for each purchase.		
+*  Integrated Twilio API for SMS notifications, alerting customers in case of payment failures.
+*  Implemented a stock monitoring feature that alerts the admin when product quantities fall below a defined threshold.
+*  Utilized a scheduler to automatically generate and email daily product status reports in CSV format to the admin.
+*  Employed MySQL as the database for efficient data storage and retrieval.	
+*  Gained hands-on experience with third-party APIs, enhancing system functionality and communication.
+
+ ### Sale Campaign Management System (Spring Boot)
+*  Developed a robust REST API for managing product sales campaigns using Spring Boot.		
+*  Implemented automated scheduling for sales initiation and expiration based on defined dates, enhancing operational efficiency.
+*  Established a one-to-many relationship between sales and sale items, improving data organization.
+*  Resulted in increased efficiency and improved sales performance, facilitating data-driven decision-making.
+
 
 ### Vortex Booking Application (Flutter App)
 A real-time booking application for computer cyber cafes, designed to streamline the reservation process and enhance user experience.
