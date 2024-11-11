@@ -73,7 +73,7 @@ A real-time booking application for computer cyber cafes, designed to streamline
 
 **Technologies Used:** Flutter, Dart, Firebase, Date and Time Functions
 
-### [Food Website](https://bluediamondtiles.great-site.net/?i=1) (PHP)
+### [Food Ordering System Basic website](github.com/tirth063/food_website-PHP/tree/main/PHPPROG/project) (PHP)
 A comprehensive food ordering platform with separate modules for administrators and users, focusing on efficient content management and user authentication.
 
 **Key Features:**
@@ -81,11 +81,11 @@ A comprehensive food ordering platform with separate modules for administrators 
 - Developed a robust Content Management System (CMS) for easy menu and order management
 - Implemented CRUD operations using MySQL for efficient data handling
 - Created an advanced search functionality to enhance user experience
-- Integrated responsive design principles for optimal viewing across devices
+- Integrated responsive design principles for optimal viewing
 
 **Technologies Used:** PHP, MySQL, HTML, CSS, JavaScript
 
-### Tiles Showcase Website (PHP)
+### [Tiles Showcase Website](https://bluediamondtiles.great-site.net/?i=1) (PHP)
 A dynamic website designed to showcase and manage a diverse tile product line, emphasizing performance and user experience.
 
 **Key Features:**
