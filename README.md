@@ -9,6 +9,11 @@ Greetings! 👋<br/><br/>
 
 ## Education
 
+### Masters of Computer Application (M.C.A.)
+**Sarvajanik College of Engineering & Technology
+College in Surat, Gujarat**
+- Duration: 2024 – 2026
+
 ### Bachelor of Computer Application (B.C.A.)
 **Veer Narmad South Gujarat University, Surat**
 - GPA: 8.15
@@ -42,7 +47,7 @@ Git, GitHub, VS Code, Postman, Docker
 Problem-solving, Data Structures and Algorithms (DSA)
 
 ## Projects
-### Bill Generation System (Spring Boot)
+### [Bill Generation System](https://github.com/tirth063/Bill-Generation-System) (Spring Boot)
 *  Developed a system to process customer orders, ensuring a single transaction for each purchase.		
 *  Integrated Twilio API for SMS notifications, alerting customers in case of payment failures.
 *  Implemented a stock monitoring feature that alerts the admin when product quantities fall below a defined threshold.
@@ -50,26 +55,25 @@ Problem-solving, Data Structures and Algorithms (DSA)
 *  Employed MySQL as the database for efficient data storage and retrieval.	
 *  Gained hands-on experience with third-party APIs, enhancing system functionality and communication.
 
- ### Sale Campaign Management System (Spring Boot)
+ ### [Sale Campaign Management System](github.com/tirth063/Sale-Campaign-System) (Spring Boot)
 *  Developed a robust REST API for managing product sales campaigns using Spring Boot.		
 *  Implemented automated scheduling for sales initiation and expiration based on defined dates, enhancing operational efficiency.
 *  Established a one-to-many relationship between sales and sale items, improving data organization.
 *  Resulted in increased efficiency and improved sales performance, facilitating data-driven decision-making.
 
 
-### Vortex Booking Application (Flutter App)
+### [Vortex Booking Application](github.com/tirth063/Vortex_Gaming/tree/main/vortex_gaming_emporium) (Flutter App)
 A real-time booking application for computer cyber cafes, designed to streamline the reservation process and enhance user experience.
 
 **Key Features:**
 - Developed using Flutter framework with Firebase backend for real-time data synchronization
 - Implemented a user-friendly interface for seamless booking experience
 - Integrated real-time availability tracking system for accurate slot management
-- Incorporated push notifications for booking confirmations and reminders
 - Ensured cross-platform compatibility for both Android and iOS devices
 
-**Technologies Used:** Flutter, Dart, Firebase, REST APIs
+**Technologies Used:** Flutter, Dart, Firebase, Date and Time Functions
 
-### Food Website (PHP)
+### [Food Website](https://bluediamondtiles.great-site.net/?i=1) (PHP)
 A comprehensive food ordering platform with separate modules for administrators and users, focusing on efficient content management and user authentication.
 
 **Key Features:**
@@ -92,30 +96,4 @@ A dynamic website designed to showcase and manage a diverse tile product line, e
 - Implemented SEO best practices to improve website visibility in search engine results
 
 **Technologies Used:** PHP, MySQL, HTML, CSS, JavaScript, AJAX
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tirth063) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth-patel-420817263) 
-
-# 💻 Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-
-## Languages:
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>    </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tirth063&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tirth063&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth063&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=tirth063&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
