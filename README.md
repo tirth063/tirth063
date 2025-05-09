@@ -3,7 +3,7 @@ Greetings! 👋<br/><br/>
 
 ## Contact Information
 - Email: [tirth063.patel@gmail.com](mailto:tirth063.patel@gmail.com)
-- LinkedIn: [linkedin.com/in/tirth063l](https://www.linkedin.com/in/tirth063)
+- LinkedIn: [linkedin.com/in/tirth063](https://www.linkedin.com/in/tirth063)
 - leetcode: [leetcode.com/unsoldconsol/](https://leetcode.com/unsoldconsol/)
 
 ## Education
