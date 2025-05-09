@@ -1,10 +1,9 @@
 # 💫 About Me:
 Greetings! 👋<br/><br/>
-- Portfolio: [tirthportfolio.live](https://tirthportfolio.live/)
 
 ## Contact Information
 - Email: [tirth063.patel@gmail.com](mailto:tirth063.patel@gmail.com)
-- LinkedIn: [linkedin.com/in/tirth-patel](https://www.linkedin.com/in/tirth-patel-420817263/)
+- LinkedIn: [linkedin.com/in/tirth063l](https://www.linkedin.com/in/tirth063)
 - leetcode: [leetcode.com/unsoldconsol/](https://leetcode.com/unsoldconsol/)
 
 ## Education
